@@ -1,4 +1,4 @@
-# guizeji
+# 规则集
 mihomo 使用的规则集
 
 ### 在线地址（URL）
