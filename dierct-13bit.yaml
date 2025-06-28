@@ -8,3 +8,4 @@ payload:
   # - DST-PORT,80
   # - SRC-PORT,7777
   - DOMAIN-KEYWORD,m-team
+  - DOMAIN-SUFFIX,zxdgs.top
