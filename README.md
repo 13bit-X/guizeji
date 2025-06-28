@@ -8,4 +8,6 @@ mihomo 使用的规则集
 - **代理列表 proxy-13bit.yaml**：
   - [https://github.com/13bit-X/guizeji/raw/refs/heads/main/proxy-13bit.yaml](https://github.com/13bit-X/guizeji/raw/refs/heads/main/proxy-13bit.yaml)
   - [https://cdn.jsdelivr.net/gh/13bit-X/guizeji@raw/refs/heads/main/proxy-13bit.yaml](https://cdn.jsdelivr.net/gh/13bit-X/guizeji@raw/refs/heads/main/proxy-13bit.yaml)
-- **代理域名列表 proxy.txt**：
+- **直连列表 dierct-13bit.yaml**：
+  - [https://github.com/13bit-X/guizeji/raw/refs/heads/main/dierct-13bit.yaml](https://github.com/13bit-X/guizeji/raw/refs/heads/main/dierct-13bit.yaml)
+  - [https://cdn.jsdelivr.net/gh/13bit-X/guizeji@raw/refs/heads/main/dierct-13bit.yaml](https://cdn.jsdelivr.net/gh/13bit-X/guizeji@raw/refs/heads/main/dierct-13bit.yaml)
