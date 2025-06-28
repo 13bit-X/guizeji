@@ -12,5 +12,5 @@ payload:
   - DOMAIN-SUFFIX,zxdgs.top
   - DOMAIN-SUFFIX,bd2-cdn.akamaized.net # 棕色尘埃2 相关
   - DOMAIN-SUFFIX,chat.bd2.pmang.cloud # 棕色尘埃2 相关
-  - geosite,category-pt
+  - GEOSITE,category-pt
   - DOMAIN-SUFFIX,ghfast.top # GitHub 代理加速
