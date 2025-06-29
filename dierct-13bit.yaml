@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：7 条
+  # 规则数量：9 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -13,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,bd2-cdn.akamaized.net # 棕色尘埃2 相关
   - DOMAIN-SUFFIX,chat.bd2.pmang.cloud # 棕色尘埃2 相关
   - DOMAIN-SUFFIX,prts.plus # PRTS Plus 明日方舟作业查询
+  - DOMAIN-SUFFIX,zoot.plus # PRTS Plus 明日方舟作业查询
+  - DOMAIN-SUFFIX,maa.plus # PRTS Plus 明日方舟作业查询
   - DOMAIN-SUFFIX,ghfast.top # GitHub 代理加速
   - GEOSITE,category-pt # 灰色 pt
   - GEOIP,CN # 中国
