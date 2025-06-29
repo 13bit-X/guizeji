@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：9 条
+  # 规则数量：8 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
