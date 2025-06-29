@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：8 条
+  # 规则数量：9 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -16,4 +16,5 @@ payload:
   - DOMAIN-SUFFIX,zoot.plus # PRTS Plus 明日方舟作业查询
   - DOMAIN-SUFFIX,maa.plus # PRTS Plus 明日方舟作业查询
   - DOMAIN-SUFFIX,ghfast.top # GitHub 代理加速
+  - DOMAIN-SUFFIX,search.lmstudio.ai # LM Studio 下载域名
   - GEOSITE,category-pt # pt 站点域名列表
