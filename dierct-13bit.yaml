@@ -16,5 +16,5 @@ payload:
   - DOMAIN-SUFFIX,zoot.plus # PRTS Plus 明日方舟作业查询
   - DOMAIN-SUFFIX,maa.plus # PRTS Plus 明日方舟作业查询
   - DOMAIN-SUFFIX,ghfast.top # GitHub 代理加速
-  - GEOSITE,category-pt # 灰色 pt
-  - GEOIP,CN # 中国
+  - GEOSITE,category-pt # pt 站点域名列表
+  - GEOIP,CN # 中国 IP 列表
