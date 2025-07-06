@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：11 条
+  # 规则数量：13 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -19,4 +19,6 @@ payload:
   - DOMAIN-SUFFIX,search.lmstudio.ai # LM Studio 下载域名
   - DOMAIN-SUFFIX,steaminventoryhelper.com # Steam 库存助手 浏览器插件
   - DOMAIN-SUFFIX,xdouban.com # xdouban无损音乐网
+  - DOMAIN-SUFFIX,image.tmdb.org # The Movie Database 电影数据库
+  - DOMAIN-SUFFIX,api.tmdb.org # The Movie Database 电影数据库
   - GEOSITE,category-pt # pt 站点域名列表
