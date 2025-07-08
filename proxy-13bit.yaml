@@ -1,6 +1,6 @@
 payload:
   # 代理列表
-  # 规则数量：2 条
+  # 规则数量：3 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -11,3 +11,4 @@ payload:
   # - SRC-PORT,7777
   - DOMAIN-SUFFIX,naiq.cc # 奶圈 签到
   - DOMAIN-SUFFIX,juyovo.com # 橘柚小站.HAR 签到
+  - DOMAIN-SUFFIX,files.pythonhosted.org # pip 官方源
