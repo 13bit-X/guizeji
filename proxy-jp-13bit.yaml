@@ -1,6 +1,6 @@
 payload:
   # 日本节点列表
-  # 规则数量：1 条
+  # 规则数量：2 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -10,3 +10,4 @@ payload:
   # - DST-PORT,80
   # - SRC-PORT,7777
   - DOMAIN-SUFFIX,dmm.co.jp # FANZA
+  - DOMAIN-SUFFIX,dmm.com # FANZA
