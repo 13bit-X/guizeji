@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：14 条
+  # 规则数量：15 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -22,4 +22,5 @@ payload:
   - DOMAIN-SUFFIX,image.tmdb.org # The Movie Database 电影数据库
   - DOMAIN-SUFFIX,api.tmdb.org # The Movie Database 电影数据库
   - DOMAIN-SUFFIX,lmstudio.ai # LM Studio
+  - DOMAIN-SUFFIX,xi-xu.me # Xget 开源资源访问加速引擎
   - GEOSITE,category-pt # pt 站点域名列表
