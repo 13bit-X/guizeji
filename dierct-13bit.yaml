@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：17 条
+  # 规则数量：18 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -25,4 +25,5 @@ payload:
   - DOMAIN-SUFFIX,xi-xu.me # Xget 开源资源访问加速引擎
   - DOMAIN-SUFFIX,international-gfe.download.nvidia.com # NVIDIA App 驱动下载
   - DOMAIN-SUFFIX,nvidia.com # NVIDIA
+  - DOMAIN-SUFFIX,setup-overwolf-com.akamaized.net # Overwolf
   - GEOSITE,category-pt # pt 站点域名列表
