@@ -1,6 +1,6 @@
 payload:
   # 代理列表
-  # 规则数量：4 条
+  # 规则数量：5 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,juyovo.com # 橘柚小站.HAR 签到
   - DOMAIN-SUFFIX,files.pythonhosted.org # pip 官方源
   - DOMAIN-SUFFIX,nikkinikki.pages.dev # nikki软件源
+  - DOMAIN-SUFFIX,javstore.net # jav 用于插件获取影片缩略图
