@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # 规则数量：19 条
+  # 规则数量：20 条
   # - DOMAIN-SUFFIX,google.com
   # - DOMAIN-KEYWORD,google
   # - DOMAIN,ad.com
@@ -27,4 +27,5 @@ payload:
   - DOMAIN-SUFFIX,nvidia.com # NVIDIA
   - DOMAIN-SUFFIX,setup-overwolf-com.akamaized.net # Overwolf
   - DOMAIN-SUFFIX,kuaishouzt.com # 快手
+  - DOMAIN-SUFFIX,uploadhaven.com # 俄罗斯游戏破解资源站
   - GEOSITE,category-pt # pt 站点域名列表
