@@ -9,10 +9,10 @@ mihomo 使用的规则集
   - [https://raw.githubusercontent.com/13bit-X/guizeji/refs/heads/main/proxy-13bit.yaml](https://raw.githubusercontent.com/13bit-X/guizeji/refs/heads/main/proxy-13bit.yaml)
   - [https://cdn.jsdelivr.net/gh/13bit-X/guizeji@refs/heads/main/proxy-13bit.yaml](https://cdn.jsdelivr.net/gh/13bit-X/guizeji@refs/heads/main/proxy-13bit.yaml)
   - [https://gitee.com/Z-13bit/guizeji/raw/main/proxy-13bit.yaml](https://gitee.com/Z-13bit/guizeji/raw/main/proxy-13bit.yaml)
-- **直连列表 dierct-13bit.yaml**：
-  - [https://raw.githubusercontent.com/13bit-X/guizeji/refs/heads/main/dierct-13bit.yaml](https://raw.githubusercontent.com/13bit-X/guizeji/refs/heads/main/dierct-13bit.yaml)
-  - [https://cdn.jsdelivr.net/gh/13bit-X/guizeji@refs/heads/main/dierct-13bit.yaml](https://cdn.jsdelivr.net/gh/13bit-X/guizeji@refs/heads/main/dierct-13bit.yaml)
-  - [https://gitee.com/Z-13bit/guizeji/raw/main/dierct-13bit.yaml](https://gitee.com/Z-13bit/guizeji/raw/main/dierct-13bit.yaml)
+- **直连列表 direct-13bit.yaml**：
+  - [https://raw.githubusercontent.com/13bit-X/guizeji/refs/heads/main/direct-13bit.yaml](https://raw.githubusercontent.com/13bit-X/guizeji/refs/heads/main/direct-13bit.yaml)
+  - [https://cdn.jsdelivr.net/gh/13bit-X/guizeji@refs/heads/main/direct-13bit.yaml](https://cdn.jsdelivr.net/gh/13bit-X/guizeji@refs/heads/main/direct-13bit.yaml)
+  - [https://gitee.com/Z-13bit/guizeji/raw/main/direct-13bit.yaml](https://gitee.com/Z-13bit/guizeji/raw/main/direct-13bit.yaml)
 - **日本节点列表 proxy-jp-13bit.yaml**:
   - [https://raw.githubusercontent.com/13bit-X/guizeji/refs/heads/main/proxy-jp-13bit.yaml](https://raw.githubusercontent.com/13bit-X/guizeji/refs/heads/main/proxy-jp-13bit.yaml)
   - [https://cdn.jsdelivr.net/gh/13bit-X/guizeji@refs/heads/main/proxy-jp-13bit.yaml](https://cdn.jsdelivr.net/gh/13bit-X/guizeji@refs/heads/main/proxy-jp-13bit.yaml)
